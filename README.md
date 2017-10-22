@@ -16,7 +16,7 @@ npm install
 ```
 npm run dev
 ```
-浏览器输入:(http://localhost:8080)即可看到效果
+浏览器输入:localhost:8080即可看到效果
 
 ### 发布
 
